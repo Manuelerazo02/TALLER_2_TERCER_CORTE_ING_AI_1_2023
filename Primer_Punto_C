@@ -2,12 +2,12 @@
 
 int main() {
     float pi = 3.141592;
-    float radio = 14.5;
-    float altura = 26.79;
+    float r = 14.5;
+    float h = 26.79;
 
-    float volumen = (1.0 / 3.0) * pi * radio * radio * altura;
+    float v = (1.0 / 3.0) * pi * r * r * a;
 
-    printf("El volumen del cono es: %.2f\n", volumen);
+    printf("El volumen del cono es: %.2f\n", v);
 
     return 0;
 }
