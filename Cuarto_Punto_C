@@ -26,7 +26,7 @@ int main() {
                  (prac[0] + prac[1] + prac[2]) / 3 * 0.3 +
                  acti * 0.1;
 
-    printf("\nLa nota final de la materia Informática es: %.2f\n", final);
+    printf("\nSu nota final de Informática es: %.2f\n", final);
 
     return 0;
 }
